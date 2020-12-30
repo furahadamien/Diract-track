@@ -2,6 +2,7 @@ Diract-track
 ============
 Journey-mapping for Bluetooth beacons using Diract, proximity interaction detection software
 
+Based on __Hello-diract__ from [reelyActive](https://github.com/reelyactive/hlc-server/tree/master/web/apps/hello-diract) running on [HLC SERVER](https://github.com/reelyactive/hlc-server).
 
 License
 -------
